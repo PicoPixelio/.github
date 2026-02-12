@@ -1,10 +1,10 @@
-# Pico Pixel
+# PicoPixel
 
 **The Figma for LVGL — design beautiful embedded interfaces, visually, together.**
 
 > This GitHub organization is used for feedback, feature requests, and bug reports. The PicoPixel source code is not hosted here.
 
-**Get started — [app.picopixel.io](https://app.picopixel.io)** (free to use)
+**Get started — [picopixel.io](https://picopixel.io)** (free to use)
 
 ## Features
 
@@ -18,7 +18,7 @@
 
 ## Getting Started
 
-Head to **[app.picopixel.io](https://app.picopixel.io)** to start designing — it's free.
+Head to **[picopixel.io](https://picopixel.io)** to start designing — it's free.
 
 ## Links
 
